@@ -25,11 +25,6 @@
       <stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
     </linearGradient>
 
-    <radialGradient id="sheen">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
-      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
 
