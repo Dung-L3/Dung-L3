@@ -1,8 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Dung Le — Team Lead, Fullstack Developer" src="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark) and (hover: hover)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-static.svg">
+  <source media="(hover: hover)" srcset="assets/header-light.svg">
+  <img alt="Dung Le — Team Lead, Fullstack Developer" src="assets/header-light-static.svg">
 </picture>
 
 I build backend systems and lead the team that ships them — from data model and API
@@ -10,6 +12,22 @@ design to deployment. Java and Spring on the server, TypeScript and Python aroun
 I like boring, readable code and systems that are easy to reason about at 2 AM.
 
 </div>
+
+<details>
+<summary><b>About</b></summary>
+
+<br>
+
+Team lead who still writes code every day. The parts I care about are the
+unglamorous ones: a data model that holds up, an API nobody has to guess at,
+and a deploy that doesn't need a hero.
+
+- **Server first** — Java and Spring, Oracle and SQL Server underneath
+- **TypeScript** when the job needs a face, **Python** for the glue
+- **Boring over clever** — readable code, predictable systems
+- I'd rather delete a line than add an abstraction
+
+</details>
 
 ### Stack
 
@@ -38,6 +56,13 @@ I like boring, readable code and systems that are easy to reason about at 2 AM.
 **[opencode-commandcode-tools](https://github.com/Dung-L3/opencode-commandcode-tools)** — Single-file installer that wires Command Code into OpenCode as a provider. No clone, no dependencies, and it validates your API key before writing anything.
 
 `JavaScript` · `MIT` · Windows / Linux / macOS
+
+### Languages
+
+<p align="center">
+  <img height="190" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dung-L3&theme=transparent" />
+  <img height="190" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dung-L3&theme=transparent" />
+</p>
 
 ### Activity
 
