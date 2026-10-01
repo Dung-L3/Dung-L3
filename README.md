@@ -67,7 +67,7 @@ and a deploy that doesn't need a hero.
 ### Activity
 
 <p align="center">
-  <img alt="GitHub contributions and streak" src="https://streak-stats.demolab.com?user=Dung-L3&hide_border=true&background=00000000&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=9CA3AF&currStreakLabel=9CA3AF&sideLabels=6B7280&dates=6B7280&card_width=470&disable_animations=true" />
+  <img alt="GitHub contributions and streak" src="https://streak-stats.demolab.com?user=Dung-L3&hide_border=true&background=00000000&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=9CA3AF&currStreakLabel=9CA3AF&sideLabels=6B7280&dates=6B7280&card_width=470&disable_animations=true&v=20261001" />
 </p>
 
 ### Contact
