@@ -32,24 +32,24 @@ and a deploy that doesn't need a hero.
 ### Stack
 
 **Languages**<br>
-![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Backend**<br>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=white)
-![ActiveMQ](https://img.shields.io/badge/ActiveMQ-1F2937?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-C62828?style=flat-square)
 
 **Data**<br>
-![Oracle](https://img.shields.io/badge/Oracle-1F2937?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Tooling**<br>
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-1F2937?style=flat-square&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ### Highlight
 
